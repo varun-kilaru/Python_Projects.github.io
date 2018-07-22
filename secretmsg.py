@@ -1,3 +1,5 @@
+print("ENCRYPTION & DECRYPTION")
+
 input("Press \'y\' to start : ")
 #ENCRYPTION
 
